@@ -19,6 +19,8 @@ You break it? That's on you.
 You get blocked? That's on you.  
 You summon a demon from a deprecated subnet? Also on you.
 
+Only use on networks you have explicit permission to explore.
+
 ## 🐧 What This Does
 
 Ubuntu Hunter Probe is a local-network discovery toolkit that:
