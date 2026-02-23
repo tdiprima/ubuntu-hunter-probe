@@ -1,6 +1,7 @@
 # 🕶️ Ubuntu Hunter Probe
 
 **A private LAN-recon toolkit for locating Ubuntu hosts.**  
+Why?  Step zero of a hardening campaign: find every Ubuntu host so I can systematically secure them.  
 Made for Me. Not for the world. Not for the faint of heart.
 
 ## ⚠️ DISCLAIMER — READ BEFORE TOUCHING
